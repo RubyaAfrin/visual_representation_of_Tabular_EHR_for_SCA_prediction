@@ -5,8 +5,7 @@ This project is focused on developing a universal visualization of tabular EHRs 
 <p align="center">
   <img src="https://github.com/RubyaAfrin/visual_representation_of_Tabular_EHR_for_SCA_prediction/blob/main/img/workflow_diagram.png" 
 </p>
-<p align="center"><i>
-```Fig. 1:The overall workflow diagram of the method</i></p>```
+<p align="center"><i>Fig. 1:The overall workflow diagram of the method</i></p>```
 
 ## Data Availability
 The database used in this study is available at [MIMIC-III Clinical Database](https://physionet.org/content/mimiciii/1.4/) and the extracted tabular EHRs data can be reproduced by [mimic3-benchmarks](https://github.com/YerevaNN/mimic3-benchmarks). 
@@ -30,5 +29,12 @@ Two image datasets are created for handling imbalanced dataset. The detail proce
   <img src="https://github.com/RubyaAfrin/visual_representation_of_Tabular_EHR_for_SCA_prediction/blob/main/img/performance_analysis_of_deep_CNN_for_SCA_prediction.png" 
 </p>
 <p align="center"><i>Table I: Performance Comparison of Deep CNN models for SCA Prediction </i></p>
+
+## License
+The project is licensed under Apache License 2.0 (a permissive license with conditions only requiring preservation of copyright and license notices).
+You may see the License at [LICENSE](https://github.com/RubyaAfrin/visual_representation_of_Tabular_EHR_for_SCA_prediction/blob/main/LICENSE) file.
+## Contributing
+We greatly appreciate any contribution to this project. Before creating a new issue or pull request, 
+please read the contribution guidelines and policies in [CONTRIBUTING](https://github.com/afrin110203/LogAnomaliesDetectionDL/blob/main/CONTRIBUTING.md) file.
 
 
