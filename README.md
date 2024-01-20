@@ -18,10 +18,10 @@ Two image datasets are created for handling imbalanced dataset. The detail proce
 3. [ResNet50_with_attention_feature_squeeze.py](https://github.com/afrin110203/visual_representation_of_Tabular_EHR_for_SCA_prediction/blob/main/src/ResNet50_with_attention_feature_squeeze.py) - designs the modified ResNet50 model with attention and feature squeezing mechnism.
 4. [model_training.py](https://github.com/afrin110203/visual_representation_of_Tabular_EHR_for_SCA_prediction/blob/main/src/model_training.py) - trains the model by setting hyperparameters.
 
-## Network Architechture
+## Modified ResNet50 Network Architechture
 <p align="center">
   <img src="https://github.com/RubyaAfrin/visual_representation_of_Tabular_EHR_for_SCA_prediction/blob/main/img/ResNet50_model_with_attention_feature_squeeze.png" 
 </p>
-<p align="center"><i>Fig. 2:The Network Architechture</i></p>
+<p align="center"><i>Fig. 2:The ResNet50 model with attention and feature-squeezing mechanism</i></p>
 
 
