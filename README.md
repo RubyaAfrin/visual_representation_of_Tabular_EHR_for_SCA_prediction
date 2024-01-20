@@ -1,4 +1,4 @@
-# Visual Representation of Tabular EHRs Data for Predicting Sudden Cardiac Arrest
+# A Uniform Visual Representation of Tabular EHRs Data for Predicting Sudden Cardiac Arrest
 
 This project is focused on developing a universal visualization of tabular EHRs data and predicting Sudden Cardiac Arrest (SCA) using deep CNN models.
 
