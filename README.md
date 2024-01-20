@@ -48,6 +48,7 @@ The code is written in Python 3.9 and  the required packages to run the repo are
 Follow the steps for installation given in the official website of [Pytorch](https://pytorch.org/).
 ## License
 Copyright 2024 RubyaAfrin
+
 The project is licensed under Apache License 2.0 (a permissive license with conditions only requiring preservation of copyright and license notices).
 You may see the License at [LICENSE](https://github.com/RubyaAfrin/visual_representation_of_Tabular_EHR_for_SCA_prediction/blob/main/LICENSE) file.
 ## Contributing
