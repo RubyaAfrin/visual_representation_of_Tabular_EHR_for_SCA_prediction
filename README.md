@@ -1,6 +1,6 @@
 # Visual Representation of Tabular EHRs Data for Predicting Sudden Cardiac Arrest
 
-This project is focused on developing a universal visualization of tabular EHRs data and predicting Sudden Cardiac Arrest using deep CNN models.
+This project is focused on developing a universal visualization of tabular EHRs data and predicting Sudden Cardiac Arrest (SCA) using deep CNN models.
 
 <p align="center">
   <img src="https://github.com/RubyaAfrin/visual_representation_of_Tabular_EHR_for_SCA_prediction/blob/main/img/workflow_diagram.png" 
@@ -23,5 +23,12 @@ Two image datasets are created for handling imbalanced dataset. The detail proce
   <img src="https://github.com/RubyaAfrin/visual_representation_of_Tabular_EHR_for_SCA_prediction/blob/main/img/ResNet50_model_with_attention_feature_squeeze.png" 
 </p>
 <p align="center"><i>Fig. 2:The ResNet50 model with attention and feature-squeezing mechanism</i></p>
+
+## Performance Evaluation
+```<p align="center">
+  <img src="https://github.com/RubyaAfrin/visual_representation_of_Tabular_EHR_for_SCA_prediction/blob/main/img/performance_analysis_of_deep_CNN_for_SCA_prediction.PNG" 
+</p>
+<p align="center"><i>Table I:Performance Comparison of Deep CNN Networks for SCA Prediction </i></p>
+```
 
 
