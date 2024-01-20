@@ -52,5 +52,5 @@ Include any additional information such as URL, crash data, regression range etc
 ### Style Guide
 
 As the code is written in Python, we follow the pip8 coding style guide with slight modification to line length. Please review it here:
-		- https://www.python.org/dev/peps/pep-0008/
+		[Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 
