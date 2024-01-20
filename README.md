@@ -11,7 +11,7 @@ This project is focused on developing a universal visualization of tabular EHRs 
 The database used in this study is available at [MIMIC-III Clinical Database](https://physionet.org/content/mimiciii/1.4/) and the extracted tabular EHRs data can be reproduced by [mimic3-benchmarks](https://github.com/YerevaNN/mimic3-benchmarks). 
 
 ## Handling Imbalance Image Dataset
-Two image datasets are created for handling imbalance in the dataset. The detail process of creating balanced datasets is found [here](https://github.com/afrin110203/visual_representation_of_Tabular_EHR_for_SCA_prediction/blob/main/img/flowchart_of_image_dataset_creation.png). 
+Two image datasets are created for handling imbalanced dataset. The detail process of creating balanced datasets is found [here](https://github.com/afrin110203/visual_representation_of_Tabular_EHR_for_SCA_prediction/blob/main/img/flowchart_of_image_dataset_creation.png). 
 ## Modules
 1. [image_generation_from_tabular_EHR_data.py](https://github.com/afrin110203/visual_representation_of_Tabular_EHR_for_SCA_prediction/blob/main/src/image_generation_from_tabular_EHR_data.py) - generates 2D images from EHRs data of MIMIC-III database.
 2. [train_test_split.py](https://github.com/afrin110203/visual_representation_of_Tabular_EHR_for_SCA_prediction/blob/main/src/train_test_split.py) - splits the dataset for training (80%) and testing (20%).
