@@ -32,7 +32,7 @@ Two image datasets are created for handling imbalanced dataset. The detail proce
 
 ## Requirements
 The code is written in Python 3.9 and  the required packages to run the repo is available in [requirements](https://github.com/RubyaAfrin/visual_representation_of_Tabular_EHR_for_SCA_prediction/blob/main/requirements.txt).
-###Pytorch
+### Pytorch
 Follow the steps for installation given in the official website of [Pytorch](https://pytorch.org/).
 ## License
 Copyright 2024 RubyaAfrin
