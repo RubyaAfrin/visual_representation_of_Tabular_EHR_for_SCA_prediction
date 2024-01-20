@@ -31,13 +31,19 @@ Two image datasets are created for handling imbalanced dataset. The detail proce
 <p align="center"><i>Table I: Performance Comparison of Deep CNN models for SCA Prediction </i></p>
 
 ## Requirements
-The code is written in Python 3.9 and  the required packages to run the repo is available in [requirements](https://github.com/RubyaAfrin/visual_representation_of_Tabular_EHR_for_SCA_prediction/blob/main/requirements.txt)
-
+The code is written in Python 3.9 and  the required packages to run the repo is available in [requirements](https://github.com/RubyaAfrin/visual_representation_of_Tabular_EHR_for_SCA_prediction/blob/main/requirements.txt).
+###Pytorch
+Follow the steps for installation given in the official website of [Pytorch](https://pytorch.org/).
 ## License
+Copyright 2024 RubyaAfrin
 The project is licensed under Apache License 2.0 (a permissive license with conditions only requiring preservation of copyright and license notices).
 You may see the License at [LICENSE](https://github.com/RubyaAfrin/visual_representation_of_Tabular_EHR_for_SCA_prediction/blob/main/LICENSE) file.
 ## Contributing
 We greatly appreciate any contribution to this project. Before creating a new issue or pull request, 
 please read the contribution guidelines and policies in [CONTRIBUTING](https://github.com/afrin110203/LogAnomaliesDetectionDL/blob/main/CONTRIBUTING.md) file.
+
+## Future Scope
+                   *Predicting cardiac arrest using Vision Transformer mechanism. 
+                   *Improving existing performance and incorporate web interface.
 
 
