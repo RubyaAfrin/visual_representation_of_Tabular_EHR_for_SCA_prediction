@@ -3,7 +3,7 @@
 This project focuses on developing a universal visualization of tabular EHRs data and predicting Sudden Cardiac Arrest using deep CNN models.
 
 <p align="center">
-  <img src="https://github.com/afrin110203/visual_representation_of_Tabular_EHR_for_SCA_prediction/blob/main/img/workflow_diagram.png" alt="GitHub Logo" width="1000" height="800">
+  <img src="https://github.com/afrin110203/visual_representation_of_Tabular_EHR_for_SCA_prediction/blob/main/img/workflow_diagram.png" alt="GitHub Logo" width="1000" height="400">
 </p>
 <p align="center"><i>GitHub Logo - Octocat</i></p>
 ## Data Availability
