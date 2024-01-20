@@ -37,7 +37,7 @@ Two image datasets are created for handling imbalanced dataset. The detail proce
 <p align="center"><i>Table I: Performance Comparison of Deep CNN models for SCA Prediction </i></p>
 
 ## Requirements
-The code is written in Python 3.9 and  the required packages to run the repo is available in [requirements](https://github.com/RubyaAfrin/visual_representation_of_Tabular_EHR_for_SCA_prediction/blob/main/requirements.txt).
+The code is written in Python 3.9 and  the required packages to run the repo are available in [requirements](https://github.com/RubyaAfrin/visual_representation_of_Tabular_EHR_for_SCA_prediction/blob/main/requirements.txt).
 ### Pytorch
 Follow the steps for installation given in the official website of [Pytorch](https://pytorch.org/).
 ## License
