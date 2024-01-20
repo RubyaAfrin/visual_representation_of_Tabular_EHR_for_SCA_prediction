@@ -3,7 +3,7 @@
 This project is focused on developing a universal visualization of tabular EHRs data and predicting Sudden Cardiac Arrest using deep CNN models.
 
 <p align="center">
-  <img src="https://github.com/afrin110203/visual_representation_of_Tabular_EHR_for_SCA_prediction/blob/main/img/model_github.png" 
+  <img src="https://github.com/RubyaAfrin/visual_representation_of_Tabular_EHR_for_SCA_prediction/blob/main/img/workflow_diagram.png" 
 </p>
 <p align="center"><i>Fig. 1:The overall workflow diagram of the method</i></p>
 
