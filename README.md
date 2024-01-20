@@ -2,7 +2,7 @@
 
 This project focuses on developing a universal visualization of tabular EHRs data and predicting Sudden Cardiac Arrest using deep CNN models.
 
-```{figure} ../img/workflow_diagram.png
+```{figure} img/workflow_diagram.png
 ---
 height: 150px
 name: directive-fig
