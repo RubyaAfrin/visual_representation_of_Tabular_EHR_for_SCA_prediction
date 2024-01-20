@@ -5,7 +5,8 @@ This project is focused on developing a universal visualization of tabular EHRs 
 <p align="center">
   <img src="https://github.com/RubyaAfrin/visual_representation_of_Tabular_EHR_for_SCA_prediction/blob/main/img/workflow_diagram.png" 
 </p>
-<p align="center"><i>Fig. 1:The overall workflow diagram of the method</i></p>
+<p align="center"><i>
+```Fig. 1:The overall workflow diagram of the method</i></p>```
 
 ## Data Availability
 The database used in this study is available at [MIMIC-III Clinical Database](https://physionet.org/content/mimiciii/1.4/) and the extracted tabular EHRs data can be reproduced by [mimic3-benchmarks](https://github.com/YerevaNN/mimic3-benchmarks). 
