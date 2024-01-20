@@ -25,12 +25,9 @@ Two image datasets are created for handling imbalanced dataset. The detail proce
 <p align="center"><i>Fig. 2:The ResNet50 model with attention and feature-squeezing mechanism</i></p>
 
 ## Performance Evaluation
-```
 <p align="center">
   <img src="https://github.com/RubyaAfrin/visual_representation_of_Tabular_EHR_for_SCA_prediction/blob/main/img/performance_analysis_of_deep_CNN_for_SCA_prediction.PNG" 
 </p>
 <p align="center"><i>Table I:Performance Comparison of Deep CNN Networks for SCA Prediction </i></p>
-
-```
 
 
