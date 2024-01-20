@@ -10,7 +10,7 @@ This project is focused on developing a universal visualization of tabular EHRs 
 ## Main Contribution
 1. Representing the EHR data in 2D images that can be utilized for uniform visual interpretation.
 2. Handling an imbalanced dataset by resampling techniques (undersample and oversample).
-3. Leveraging deep CNNs models i.e., (VGG19)[https://arxiv.org/abs/1409.1556], (ResNet50)[https://arxiv.org/abs/1512.03385], DenseNet121(https://ieeexplore.ieee.org/document/8099726) and (InceptionV3)[https://arxiv.org/abs/1512.00567] to predict cardiac arrest.
+3. Leveraging deep CNNs models i.e., [VGG19](https://arxiv.org/abs/1409.1556), [ResNet50](https://arxiv.org/abs/1512.03385), [DenseNet121](https://ieeexplore.ieee.org/document/8099726) and [InceptionV3](https://arxiv.org/abs/1512.00567) to predict cardiac arrest.
 4. Applying an attention-based feature-squeezing mechanism to improve model performance.
 
 ## Data Availability
