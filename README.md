@@ -3,9 +3,9 @@
 This project focuses on developing a universal visualization of tabular EHRs data and predicting Sudden Cardiac Arrest using deep CNN models.
 
 <p align="center">
-  <img src="https://github.com/afrin110203/visual_representation_of_Tabular_EHR_for_SCA_prediction/blob/main/img/workflow_diagram.png" alt="The overall worflow digram of the method" 
+  <img src="https://github.com/afrin110203/visual_representation_of_Tabular_EHR_for_SCA_prediction/blob/main/img/workflow_diagram.png"
 </p>
-<p align="center"><i>The overall workflow diagram of the method</i></p>
+<p align="center"><i>Fig. 1:The overall workflow diagram of the method</i></p>
 ## Data Availability
 The database used in this study is available at [MIMIC-III Clinical Database](https://physionet.org/content/mimiciii/1.4/) and the extracted tabular EHRs data is availabe at [mimic3-benchmarks](https://github.com/YerevaNN/mimic3-benchmarks). 
 
