@@ -43,7 +43,7 @@ We greatly appreciate any contribution to this project. Before creating a new is
 please read the contribution guidelines and policies in [CONTRIBUTING](https://github.com/afrin110203/LogAnomaliesDetectionDL/blob/main/CONTRIBUTING.md) file.
 
 ## Future Scope
-                   *Predicting cardiac arrest using Vision Transformer mechanism. 
-                   *Improving existing performance and incorporate web interface.
+* Predicting cardiac arrest using Vision Transformer mechanism.
+* Improving existing performance and incorporate web interface.
 
 
