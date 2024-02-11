@@ -51,8 +51,8 @@ transform = transforms.Compose([transforms.Resize((36, 6000)),
                                 transforms.ToTensor()])
 
 
-train_data = CustomDataset(r'proper_dataset\train', transform)
-test_data= CustomDataset(r'proper_dataset\test', transform)
+train_data = CustomDataset(r'image\train', transform)
+test_data= CustomDataset(r'image\test', transform)
 
 train_loader = DataLoader(dataset=train_data, batch_size=2, shuffle=True)
 test_loader = DataLoader(dataset=test_data, batch_size=2, shuffle=True)
