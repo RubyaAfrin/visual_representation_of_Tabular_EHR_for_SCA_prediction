@@ -1,5 +1,5 @@
 import os
-RAW_DATA_PATH = r'dataset/dataset.csv'
+RAW_DATA_PATH = r'MIMIC_III_merged.csv' 
 
 SAVE_PROCESSED_JSON = False
 
